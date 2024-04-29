@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad9340&show_icons=true&locale=en" alt="asad9340" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad9340&" alt="asad9340" /></p>
-<p> <img src="https://wakatime.com/share/@018d092b-9aeb-4fb8-b9a2-bfa3d3524694/536407a0-bb29-4278-95f7-ebf12374a057.svg" alt="waka time status" /></p>
+<p> <img src="https://wakatime.com/share/@018d092b-9aeb-4fb8-b9a2-bfa3d3524694/a5cf9f3c-4cd0-406c-88bf-8c99d061568b.svg" alt="waka time status" /></p>
 
