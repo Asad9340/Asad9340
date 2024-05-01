@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studing at **Mawlana Bhashani Science and Technology University**
- 
  🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+ 
+ 🔭 I’m currently studing at **Mawlana Bhashani Science and Technology University**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Asad9340)**
 
