@@ -1,8 +1,9 @@
 
 <img width="100%"  src="https://i.postimg.cc/zf3k2PFV/Black-and-White-Gradient-Personal-Linked-In-Banner.gif" />
+<hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Md+Asadul+Islam!;" />
-</h1>
+</h1> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=asad9340&label=Profile%20views&color=0e75b6&style=flat" alt="asad9340" /> </p>
 
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
