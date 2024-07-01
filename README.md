@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+ 🌱 I’m currently learning **Angular **
  
  🔭 I’m currently studing at **Mawlana Bhashani Science and Technology University**
 
