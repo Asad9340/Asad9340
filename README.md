@@ -16,7 +16,7 @@
  
  🔭 I’m currently studing at **Mawlana Bhashani Science and Technology University**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Asad9340)**
+💬 Ask me about **Node.js, React,Angular, Firebase... or anything [here](https://github.com/Asad9340)**
 
  </div>
  
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/asad9340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://asadulislamportfolio.netlify.app" target="_blank">
+  <a href="https://asad-dev-portfolio.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
